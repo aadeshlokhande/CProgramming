@@ -1,0 +1,47 @@
+marks[20][6] = {
+    {12,42,54,34,63,23},
+    {32,45,74,65,84,43},
+    {23,54,77,45,76,45}
+    .
+    .
+    .
+    .
+};
+
+
+press 1: marks 
+press 2: result 
+press 3: whole result
+
+press 1: marks 
+    enter a rollnumber = 1
+        press 0: hindi 
+        press 1 : english
+        press 2 : math 
+        .
+        .
+        .
+
+        enter a subject = 2 
+
+        marks = 74 
+
+press 2: result 
+    enter a rollnumber = 2
+    hindi = 
+    english = 
+    math = 
+    .
+    .
+    .
+
+press 3: whole result
+                hin     eng     math    his     geo     sci 
+rollnumber 0    87      765     78      87      65      4
+rollnumber 1    67      67      57      87      87      56
+.
+.
+.
+.
+.
+rollnumber 19 98        76      56      87      67      87    

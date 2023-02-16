@@ -1,0 +1,51 @@
+Marksheet
+
+mark[20][6] = {
+    {12,43,65,87,45,76},
+    {12,43,65,87,45,76},
+    {12,43,65,87,45,76},
+    .
+    .
+    .
+};
+
+
+
+press 1: mark 
+    enter a roll number = 2
+    press 0 : hindi
+    press 1 : marathi
+    press 2 : english
+    press 3 : history
+    .
+    .
+    enter your sub = 3
+    history = 87
+
+press 2: result
+    enter a roll number = 2
+    hindi = 
+    marathi = 
+    english = 
+    history = 
+    .
+    .
+
+press 3: whole result
+
+                hin     mar     eng     his     geo     sci 
+    roll no 0   87
+    roll no 1   87
+    roll no 2   87
+    roll no 3   87
+
+
+
+
+
+
+
+
+
+
+

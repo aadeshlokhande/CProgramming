@@ -1,0 +1,48 @@
+marks[20][6] = {
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+    {12,23,54,65,76,46},
+};
+
+
+
+press 1: mark 
+    enter rollnumber = 3
+        press 0: hin
+        press 1: mar
+        press 2: eng
+        press 3: math
+        press 4: sci
+        press 5: sst
+        enter your choice = 2
+            english = 54 marks 
+
+press 2: result
+    enter your roll number = 4
+    hin = 
+    mar = 
+    eng = 
+    .
+    .
+    .
+
+press 3: whole result
+
+            hin     mar     eng     sci     math    sst
+    roll 0  23      23      32      323     443     34
+    roll 1  23      23      32      323     443     34
+    roll 2  23      23      32      323     443     34
+    roll 3  23      23      32      323     443     34
+    roll 4  23      23      32      323     443     34
+    roll 5  23      23      32      323     443     34
+    roll 6  23      23      32      323     443     34
+    roll 7  23      23      32      323     443     34
+    roll 8  23      23      32      323     443     34
+    roll 9  23      23      32      323     443     34
+    .
+    .
+    .

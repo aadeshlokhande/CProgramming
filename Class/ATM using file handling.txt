@@ -1,0 +1,28 @@
+3) ATM using file handling
+
+bal.txt = 12000
+pin.txt = 1234;
+
+press 1 : withdraw
+    enter a pin = 1234
+        enter a amount = 5000
+            transaction successfull
+            current bal = 7000
+        insufficiant balance 
+    wrong pin 
+    
+press 2 : check balance 
+    enter a pin = 1234
+        current balance = 12000
+    wrong pin 
+
+press 3 : change pin
+    enter a pin = 1234
+        enter a new pin = 1122
+        confirm your pin = 1122
+            pin change successfull
+        pin doesn't match
+    wrong pin
+
+press 4 : exit
+    thanks for using our service

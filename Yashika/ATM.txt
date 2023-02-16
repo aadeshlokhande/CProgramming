@@ -1,0 +1,35 @@
+ATM 
+
+pin = 9900
+bal = 10000
+
+
+press 1 : withdraw 
+press 2 : check balance
+press 3 : change pin 
+press 4 : exit 
+
+
+press 1 : withdraw 
+    enter a pin = 9900
+        enter a amount = 120
+            transaction successfull
+            current balance = 9880
+        low balance 
+    wrong pin 
+
+press 2 : check balance
+    enter a pin = 9900
+        current balance = 9880
+    wrong pin 
+
+press 3 : change pin 
+    enter a pin = 9900
+        enter a new pin = 1122
+        confirm your pin = 1122
+            pin changed successfull
+        pin doesn't match
+    wrong pin 
+
+press 4 : exit 
+    thanks for using our service

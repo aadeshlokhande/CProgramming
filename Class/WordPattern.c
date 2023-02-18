@@ -37,7 +37,7 @@ int main()
     char str[20];
     printf("Enter a string = ");
     scanf("%s",str);
-
+    
     len = strlen(str);
 
     for(int i = 0; i<7; i++)
@@ -46,6 +46,11 @@ int main()
         {
             for(int k = 0; k<27; k++)
             {
+                if(str[j]>=65 && str[j]<=90)
+                {
+                    str[j] = str[j] + 32;
+                }
+                
                 if(str[j]==alpha[k])
                 {
                     printf("%s",let[k][i]);
@@ -56,3 +61,10 @@ int main()
     }
     return 0;
 }
+
+
+
+
+
+
+

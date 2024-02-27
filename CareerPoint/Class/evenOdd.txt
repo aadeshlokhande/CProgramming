@@ -1,0 +1,32 @@
+#include<stdio.h>
+int main()
+{
+    int a;
+    printf("enter a number = ");
+    scanf("%d",&a);
+
+    if(a==1)
+    {
+        printf("odd Number\n");
+    }
+    else if(a==2)
+    {
+        printf("Even number\n");
+    }
+    else if(a==3)
+    {
+        printf("Odd number\n");
+    }
+    .
+    .
+    .
+    else if(a==1000)
+    {
+        printf("Even Number\n");
+    }
+    else 
+    {
+        printf("Invalid number\n");
+    }
+    return 0;
+}

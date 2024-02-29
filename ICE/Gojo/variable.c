@@ -48,24 +48,65 @@
 // AGE = 30 
 // ===================================
 
-#include<stdio.h>
-int main()
-{
-    // dataType variableName;
-    // int a;
+// #include<stdio.h>
+// int main()
+// {
+//     // dataType variableName;
+//     // int a;
 
-    // variableName = Value;
-    // a = 10;
+//     // variableName = Value;
+//     // a = 10;
 
-    int a = 1078 ;
-    float b = 23.76;
-    char c = 'j';
+//     int a = 1078 ;
+//     float b = 23.76;
+//     char c = 'j';
 
-    printf("a = %d\n",a);
-    printf("b = %f\n",b);
-    printf("c = %c\n",c);
+//     printf("a = %d\n",a);
+//     printf("b = %f\n",b);
+//     printf("c = %c\n",c);
 
-    return 0;
-}
+//     return 0;
+// }
 
 // ==========================================
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a,age;
+//     printf("Enter a age = ");
+//     scanf("%d",&age);
+//     a = age<18 ? 10 : 100;
+//     printf("%d",a);
+//     return 0;
+// }
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int b,a,c;
+//     printf("Enter 2 numbers = ");
+//     scanf("%d %d", &a,&b);
+    // printf("Enter a number = ");
+    // scanf("%d", &b);
+//     c = a + b;
+//     printf("%d + %d = %d",a,b,c);
+//     return 0;
+// }
+
+
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int rad;
+//     float area;
+//     printf("Enter a rad = ");
+//     scanf("%d",&rad);
+//     area= 3.14 * rad * rad;
+//     printf("%f",area); 
+//     return 0;
+// }

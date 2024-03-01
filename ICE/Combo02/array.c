@@ -72,6 +72,7 @@
 // #################################################
 // #################### HOMEWORK ###################
 // #################################################
+
 // get values from user and print total even number.
 // get values from user and store in array. then print total of all prime number
 

@@ -19,7 +19,7 @@ int main()
                 
               else
                {
-                printf("nikal");
+                    printf("nikal");
                }
         }
         else

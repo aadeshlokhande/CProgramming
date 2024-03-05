@@ -1,0 +1,38 @@
+MARKSHEET
+
+marks[10][6] = {
+    {65,54,34,65,34,76},
+    {65,87,46,34,87,57},
+    {34,65,98,76,54,87},
+    };
+
+press 1 : mark 
+    enter roll number = 2
+        press 0 : hindi
+        press 1 : english
+        press 2 : marathi
+        press 3 : maths 
+        press 4 : science
+        press 5 : history
+        enter  your choice = 3
+        marks = 76
+
+press 2 : result 
+    enter a roll number = 1
+    hindi : 65
+    english : 87
+    marathi :
+    maths :
+    science :
+    history :
+
+
+press 3 : whole result 
+        hin     eng     mar     math    sci     his     per     result 
+rollNo0 67      56      45      67      78      89
+rollNo1 78      67      56      45      90      78
+....
+.
+.
+.
+.

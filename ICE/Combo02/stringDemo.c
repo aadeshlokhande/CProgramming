@@ -32,12 +32,12 @@
 // ================================================
 
 // STRING function
-#include<string.h>
-#include<stdio.h>
-int main()
-{
-    int a;
-    char str[20] = "AadeSh";
+// #include<string.h>
+// #include<stdio.h>
+// int main()
+// {
+//     int a;
+//     char str[20] = "AadeSh";
     // char str1[20];
     // a = strlen(str);
     // a = strcmp(str,str1);
@@ -47,6 +47,8 @@ int main()
     // strcpy(str1,str);
     // strlwr(str);
     // strupr(str);
-    strrev(str);
-    printf("%s",str);
-}
+//     strrev(str);
+//     printf("%s",str);
+// }
+
+

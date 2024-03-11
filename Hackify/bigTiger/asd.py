@@ -1,7 +1,12 @@
-import pyautogui as pg
-import time 
-time.sleep(3)
-for i in range(1,11):
-    pg.typewrite("hello <3",0.08)
-    pg.press("enter")
-    time.sleep(0.5)
+# True = 1 
+# False = 0 
+
+# a = (True + True) * False
+# print(a)
+
+age = 20
+
+if(age>18):
+    print("Hello")
+else:
+    print("block")

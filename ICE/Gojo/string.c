@@ -33,15 +33,17 @@
 
 
 
-#include<stdio.h>
-#include<string.h>
-int main()
-{
-    int a;
-    char str[20] = "aadesh";
-    char str1[20] = "Aadesh";
-    // a = strlen(str);
-    a = strcmp(str,str1);
-    printf("%d",a);
-    return 0;
-}
+// #include<stdio.h>
+// #include<string.h>
+// int main()
+// {
+//     int a;
+//     char str[20] = "aadesh";
+//     char str1[20] = "Aadesh";
+//     // a = strlen(str);
+//     a = strcmp(str,str1);
+//     printf("%d",a);
+//     return 0;
+// }
+
+

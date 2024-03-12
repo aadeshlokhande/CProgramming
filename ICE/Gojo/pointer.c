@@ -12,8 +12,6 @@
 //     printf("value of ptr = %p\n",ptr);
 //     printf("address of ptr = %p\n",&ptr);
 //     printf("value of *ptr = %d\n",*ptr);
-    
-    
 // }
 
 

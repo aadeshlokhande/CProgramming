@@ -31,7 +31,3 @@ press 4 : deposite
             current balance = 13200
     wrong pin 
 
-
-
-thank you 
-

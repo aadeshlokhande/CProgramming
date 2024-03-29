@@ -8,7 +8,8 @@ void printNumber(int num)
 
     int thousands, hundreds, tens_place, ones_place;
 
-    if (num == 0) {
+    if (num == 0) 
+    {
         printf("zero\n");
         return;
     }
@@ -20,11 +21,13 @@ void printNumber(int num)
     tens_place = num / 10;
     ones_place = num % 10;
 
-    if (thousands > 0) {
+    if (thousands > 0) 
+    {
         printf("%s thousand ", ones[thousands]);
     }
 
-    if (hundreds > 0) {
+    if (hundreds > 0) 
+    {
         printf("%s hundred ", ones[hundreds]);
     }
 

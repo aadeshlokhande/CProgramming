@@ -26,7 +26,6 @@
 // {
 //     private:
 //         int a;
-    
 //     public:
 //         int b;
 //         void getdata(int lol)

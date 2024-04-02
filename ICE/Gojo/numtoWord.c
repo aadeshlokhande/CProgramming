@@ -55,14 +55,7 @@ int main()
     printf("Enter a number = ");
     scanf("%d", &num);
 
-    if (num < 0 || num > 9999) 
-    {
-        printf("Please enter a number between 0 and 9999.\n");
-    }
-    else
-    {
-        printNumber(num);
-    }
+    printNumber(num);
 
     return 0;
 }

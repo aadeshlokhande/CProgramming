@@ -58,7 +58,7 @@ int main()
             Abc obj3;
             cout << "Hello Aadesh\n";
             {
-                Abc obj4;asd.c
+                Abc obj4;
             }
         }
     }

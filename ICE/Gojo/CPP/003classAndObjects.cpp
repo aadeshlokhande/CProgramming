@@ -36,10 +36,10 @@ class ICE
         void printData()
         {
             cout << feesPaid << endl;
-            cout <<a << endl;
-            cout <<b << endl;
-            cout <<c << endl;
-            cout <<age << endl;
+            cout << a << endl;
+            cout << b << endl;
+            cout << c << endl;
+            cout << age << endl;
         }
 };
 

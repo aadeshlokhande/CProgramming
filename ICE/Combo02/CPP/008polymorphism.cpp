@@ -33,9 +33,10 @@
 
 // int main()
 // {
-//     Abc(8,50.0);
+//     Abc(1.9);
 //     return 0;
 // }
+// ================================================
 
 
 // #include<iostream>
@@ -69,8 +70,7 @@
 //     return 0;
 // }
 
-
-// =================================================================
+// =====================================================
 
 // run time 
 //     function overriding
@@ -90,7 +90,7 @@
 // class Child : public Parent
 // {
 //     public:
-//     void Info()
+//     void Infoo()
 //     {
 //         cout << "I am a Child class"<< endl;
 //     }

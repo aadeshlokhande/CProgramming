@@ -3,7 +3,6 @@
 // ofstream -----> Data Store
 
 
-
 // istream
 // #include<iostream>
 // #include<fstream>
@@ -16,7 +15,6 @@
 //     cout << a;
 //     return 0;
 // }
-
 
 
 // Ofstream

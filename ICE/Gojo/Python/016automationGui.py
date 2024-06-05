@@ -40,22 +40,22 @@
 # py.doubleClick()
 
 # ===========================================
-import pyautogui as pg
-from time import sleep 
+# import pyautogui as pg
+# from time import sleep 
 
 # a = pg.position()
 # print(a)
 # exit()
-pg.press("win")
-sleep(1)
-pg.typewrite("whatsapp",0.1)
-pg.press("enter")
-sleep(2)
-pg.typewrite("rohit c lang",0.2)
-sleep(3)
-pg.click(291,185)
+# pg.press("win")
+# sleep(1)
+# pg.typewrite("whatsapp",0.1)
+# pg.press("enter")
+# sleep(2)
+# pg.typewrite("rohit c lang",0.2)
+# sleep(3)
+# pg.click(291,185)
 
-a = ["rohit... jaldi fees complete kro...","hello","rohit reply kro","fees ka msg dekh ke ignore mat kro"]
-for msg in a:
-    pg.typewrite(msg,0.1)
-    pg.press("enter")
+# a = ["rohit... jaldi fees complete kro...","hello","rohit reply kro","fees ka msg dekh ke ignore mat kro"]
+# for msg in a:
+#     pg.typewrite(msg,0.1)
+#     pg.press("enter")

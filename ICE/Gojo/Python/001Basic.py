@@ -40,9 +40,9 @@
 
 # keywords
 
-import keyword
-a = keyword.kwlist
-print(a)
+# import keyword
+# a = keyword.kwlist
+# print(a)
 
 # ==========================
 # escape char 

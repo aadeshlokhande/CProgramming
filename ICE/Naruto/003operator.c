@@ -5,9 +5,9 @@
 // #include<stdio.h>
 // int main()
 // {
-//     int a =10;
-//     a--;
-//     printf("a = %d",a);
+//     int a = 10,b;  // --------> +1
+//     b = ++a;
+//     printf("a = %d, b = %d",a,b);
 //     return 0;
 // }
 
@@ -53,7 +53,7 @@
 // #include<stdio.h>
 // int main()
 // {
-//     int age = 12;
+//     int age = 21;
 //     (age > 18) ? printf("Hello") : printf("bye bye");
 //     return 0;
 // }
@@ -61,19 +61,27 @@
 
 // logical operator 
 // and --> && ----> ziddi
+// 0 && 0 ----> 0
+// 0 && 1 ----> 0
+// 1 && 0 ----> 0
+// 1 && 1 ----> 1
 // or --> || ---> down to earth
-// not --> ! --->
+// 0 || 0 ----> 0
+// 0 || 1 ----> 1
+// 1 || 0 ----> 1
+// 1 || 1 ----> 1,2 ==== > true 
 
+// not --> ! --->
 
 // assignment
 // a = 10
+// b = a 
 // a = a + 2 
 // a += 2 
 // a -= 2 
 // a *= 2 
 // a /= 2 
 // a %= 2 
-
 
 // #include<stdio.h>
 // int main()
@@ -83,8 +91,6 @@
 //     printf("a = %d and b = %d",a,b);
 //     return 0;
 // }
-
-
 
 // #include<stdio.h>
 // int main()
@@ -104,3 +110,20 @@
 // div 
 // mod 
 // area of circle 
+
+
+// =========================================
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a = 4;
+//     if(a)
+//     {
+//         printf("hello");
+//     }
+//     else{
+//         printf("bye bye");
+//     }
+//     return 0;
+// }

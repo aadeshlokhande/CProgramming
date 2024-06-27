@@ -60,7 +60,7 @@
 "60) Python Program to Split a List Into Evenly Sized Chunks"
 "61) Python Program to Parse a String to a Float or Int"
 "62) Python Program to Print Colored Text to the Terminal"
-"63)  Python Program to Convert String to Datetime"
+"63) Python Program to Convert String to Datetime"
 "64) Python Program to Get the Last Element of the List"
 "65) Python Program to Get a Substring of a String"
 "66) Python Program to Print Output Without a Newline"

@@ -1,0 +1,119 @@
+-- Basic Concepts
+^^ Introduction
+History of C
+Features of C
+Structure of a C Program
+Writing and Executing C Programs
+^^ Basic Syntax
+Tokens in C
+Keywords and Identifiers
+Constants and Variables
+Data Types
+^^ Operators and Expressions
+Arithmetic Operators
+Relational Operators
+Logical Operators
+Bitwise Operators
+Assignment Operators
+Miscellaneous Operators
+Operator Precedence and Associativity
+^^ Input and Output
+printf() and scanf()
+getchar() and putchar()
+gets() and puts()
+-- Control Flow
+^^ Decision Making
+if Statement
+if-else Statement
+Nested if Statements
+else-if Ladder
+switch Statement
+Conditional Operator
+^^ Loops
+while Loop
+do-while Loop
+for Loop
+Nested Loops
+break Statement
+continue Statement
+goto Statement
+-- Functions
+^^ Introduction to Functions
+Function Definition
+Function Declaration
+Function Call
+Types of Functions
+Recursion
+^^ Scope and Lifetime of Variables
+Local Variables
+Global Variables
+Static Variables
+Register Variables
+-- Arrays and Strings
+^^ Arrays
+One-dimensional Arrays
+Multi-dimensional Arrays
+Array Initialization
+Arrays and Functions
+^^ Strings
+String Handling Functions
+String Manipulation
+Array of Strings
+-- Pointers
+^^ Introduction to Pointers
+Pointer Declaration and Initialization
+Pointer Arithmetic
+Pointers and Arrays
+Pointers and Strings
+Pointers to Pointers
+^^ Dynamic Memory Allocation
+malloc(), calloc(), realloc(), free()
+Memory Leak
+-- Structures and Unions
+^^ Structures
+Defining a Structure
+Accessing Structure Members
+Structure Initialization
+Array of Structures
+Nested Structures
+Structures and Functions
+^^ Unions
+Defining and Using Unions
+Difference Between Structures and Unions
+Union of Structures
+-- File Handling
+^^ File Operations
+Opening and Closing a File
+Reading and Writing to a File
+File Modes
+fseek(), ftell(), rewind()
+Error Handling
+-- Preprocessor
+^^ Preprocessor Directives
+#define and Macros
+#include
+Conditional Compilation
+#ifdef, #ifndef, #endif
+-- Advanced Topics
+^^ Command Line Arguments
+^^ Bit Manipulation
+Bitwise Operations
+Bit Fields
+^^ Memory Management
+Memory Models
+Dangling Pointers
+^^ Graphics Programming
+Introduction to Graphics
+Drawing Shapes
+Graphics Libraries
+^^ Networking Basics
+Socket Programming
+Client-Server Model
+^^ Data Structures
+Linked Lists
+Stacks and Queues
+Trees and Graphs
+^^ Error Handling
+Types of Errors
+Debugging Techniques
+Assertions

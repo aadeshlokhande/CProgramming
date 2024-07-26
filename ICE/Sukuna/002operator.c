@@ -57,7 +57,9 @@
 // }
 
 // ternary
+
 // condition ? trueCode : falseCode;
+
 // 10 < 20 ? print('hello') : print("bye bye");
 // #include<stdio.h>
 // int main()
@@ -118,17 +120,44 @@
 
 // ===============================
 
-#include<stdio.h>
-int main()
-{
-    int a,b,c;
-    // printf("enter a and b = ");
-    // scanf("%d%d", &a, &b);
-    printf("enter a number = ");
-    scanf("%d",&a);
-    printf("enter a number = ");
-    scanf("%d",&b);
-    c = a + b;
-    printf("%d + %d = %d", a,b,c);
-    return 0;
-}
+// #include<stdio.h>
+// int main()
+// {
+//     int a,b,c;
+//     // printf("enter a and b = ");
+//     // scanf("%d%d", &a, &b);
+//     printf("enter a number = ");
+//     scanf("%d",&a);
+//     printf("enter a number = ");
+//     scanf("%d",&b);
+//     c = a + b;
+//     printf("%d + %d = %d", a,b,c);
+//     return 0;
+// }
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a,age;
+//     printf("Enter a age = ");
+//     scanf("%d",&age);
+//     // a = printf("hello");
+//     a = (age>18) ? printf("hello") : printf("bye bye");
+//     printf("\n%d",a);
+//     return 0;
+// }
+
+// #################################################
+// #################### HOMEWORK ###################
+// #################################################
+
+
+// get 2 number from user and print sub 
+// get 2 number from user and print multi 
+// get 2 number from user and print div 
+// get 2 number from user and print mod 
+// get rad from user and print area of circle
+// get value form user and print square
+// get value form user and print cube

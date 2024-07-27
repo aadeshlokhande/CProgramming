@@ -82,7 +82,8 @@ int main()
     int a ;
     printf("enter a number = ");
     scanf("%d", &a);
-
     printf("a = %d",a);
     return 0;
 }
+// ----------------------------
+

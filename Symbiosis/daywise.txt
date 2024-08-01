@@ -27,5 +27,4 @@ Algorithm
 flowchart
 pseudo code
 
-\
 Day 6 

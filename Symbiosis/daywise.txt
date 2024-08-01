@@ -1,0 +1,31 @@
+Day 1 
+Intro of C lang
+Middle level language
+compiler
+Interpreter
+History of C lang 
+
+Day 2 
+structure of C program
+white space 
+comments
+tokens
+escape char
+constants
+
+Day 3
+keywords
+character set
+variables
+data types
+
+Day 4
+operators and expressions
+
+Day 5 
+Algorithm
+flowchart
+pseudo code
+
+\
+Day 6 

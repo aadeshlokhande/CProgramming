@@ -7,20 +7,22 @@ History of C lang
 
 Day 2 
 structure of C program
-white space 
-comments
-tokens
-escape char
-constants
+- white space 
+- constants
+- comments
+- tokens
+- escape char
 
 Day 3
 keywords
-character set
 variables
 data types
+identifiers
 
 Day 4
+character set
 operators and expressions
+ternary operator
 
 Day 5 
 Algorithm
@@ -28,3 +30,71 @@ flowchart
 pseudo code
 
 Day 6 
+input / output operations
+C Pre-processor and Macros
+types of errors
+
+Day 7 
+decision making
+- If 
+- If else
+
+Day 8 
+IF else Ladder
+
+Day 9 
+nested if else 
+
+Day 10
+Switch case 
+break
+Goto statements
+
+Day 11 
+What is Loop?
+For loop 
+
+Day 12
+While loop 
+continue
+
+Day 13
+Do while Loop 
+
+Day 14
+Nested For loop with if else 
+
+Day 15
+Nested For loop with logics
+
+Day 16 
+Arrays: introduction
+declaration ,initialization
+programs using arrays
+
+Day 17 
+two dimensional arrays
+declaration ,initialization
+
+Day 18 
+String 
+initialization and read/ write operations of strings
+String Function (string.h)
+
+Day 19 
+Function 
+declaration and initialization
+local variables and global variables
+
+Day 20 
+Type of functions 
+
+Day 21 
+Recursion 
+storage classes
+- auto
+- extern
+- static
+- register
+
+Day 22

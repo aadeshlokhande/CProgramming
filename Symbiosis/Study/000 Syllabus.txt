@@ -18,8 +18,10 @@ variables
 keywords
 data types
 operators and expressions
+
 input / output operations
 C Pre-processor and Macros
+
 decision making
 branching and looping statements
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
@@ -29,8 +31,7 @@ Arrays: introduction
 one dimensional array and two dimensional arrays: declaration
 initialization
 programs using arrays
-Strings: introduction
-declaration
+Strings: introduction ,declaration
 initialization and read/ write operations of strings
 string operations
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=

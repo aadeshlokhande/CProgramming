@@ -17,10 +17,14 @@ constants
 variables
 keywords
 data types
+
+
 operators and expressions
 
 input / output operations
 C Pre-processor and Macros
+
+
 
 decision making
 branching and looping statements

@@ -51,3 +51,32 @@
 // }
 
 
+// ================================================
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int count = 0;
+//     int i;
+//     for(i = 1; i<=2024; i++)
+//     {
+//         // printf("%d\n",i);
+
+//         if(i%4 == 0)
+//         {
+//             ++count;
+//             printf("%d\n",i);
+//         }
+//     }
+//     printf("total count = %d\t",count);
+//     // printf("%d\t",i);
+//     return 0;
+// }
+
+// 20 / 5 = 4 
+
+// 20 % 5 = 0 
+// 22 % 5 = 2
+
+// algorithm and flowchart ---> 

@@ -1,20 +1,18 @@
 Day 1 
 Intro of C lang
-Middle level language
-compiler
-Interpreter
 History of C lang 
+compiler, Interpreter
+structure of C program
 
 Day 2 
-structure of C program
 - white space 
 - constants
 - comments
 - tokens
 - escape char
+keywords
 
 Day 3
-keywords
 variables
 data types
 identifiers

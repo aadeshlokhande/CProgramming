@@ -1,3 +1,5 @@
+C Pre-processor and Macros
+
 Day 1 
 Intro of C lang
 History of C lang 
@@ -10,65 +12,67 @@ Day 2
 - comments
 - tokens
 - escape char
-keywords
+- keywords
 
 Day 3
 variables
 data types
 identifiers
+input / output operations
 
 Day 4
-Algorithm
-pseudo code
-flowchart
-
-
-
-Day 5 
 character set
 operators and expressions
 ternary operator
 
-Day 6
-
-
-Day 7
-input / output operations
-C Pre-processor and Macros
-types of errors
-
-Day 8 
+Day 5 
 decision making
 - If 
 - If else
 
-Day 9 
+Day 6
+Algorithm
+pseudo code
+flowchart
 IF else Ladder
 
-Day 10 
+Day 7
 nested if else 
-
-Day 11
 Switch case 
 break
+
+Day 8
+practice test 1
+
+Day 9 
+practice Conditional Statemet 
 Goto statements
 
-Day 12 
+Day 10 
 What is Loop?
 For loop 
-
-Day 13
-While loop 
 continue
 
-Day 14
+Day 11
+While loop 
 Do while Loop 
 
-Day 15
+Day 12 
 Nested For loop with if else 
 
-Day 16
+Day 13
+
+Day 14
 Nested For loop with logics
+practice Conditional and loops
+
+Day 15
+practice test 2
+
+
+
+
+Day 16
 
 Day 17 
 Arrays: introduction

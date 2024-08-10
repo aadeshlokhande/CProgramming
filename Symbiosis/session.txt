@@ -1,0 +1,36 @@
+Name : Adesh Lokhande
+Email : aadeshlokhande11@gmail.com
+Mobile: 7058232826
+
+=========================
+
+AadeshCode<1209>
+
+sai sudeep pittala
+9877857494
+
+
+==============================
+
+Test Details:
+Test name: Preparation of C Language (MNC) -09/08/2024							
+Date and time: 09/8/ 2024
+MCQ:
+Question Type: MCQ
+Question Count: 40 CQ(2 Marks each)
+Coding
+Question: Programs
+Question Count: 4 (5 marks each)
+Total Marks: 100
+Total Time: 120 Min
+Start time: 7pm -11pm
+Group: 
+2022-26-CSE-A
+2022-26-CSE-B
+2022-26-CSE-C
+The test settings are as follows:
+1. Access on mobile: No
+2. End test on window change: Yes
+3. Split screen detection: Yes
+=========================================
+Group A,B,C,D for 2024-28

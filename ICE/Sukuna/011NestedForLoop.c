@@ -315,41 +315,41 @@
 // 12345 
  
 
-#include<stdio.h>
-int main()
-{
-    int i,j,sp=4;
-    for(i=5; i>=1; i--)
-    {
-        for(j=1; j<=sp; j++)
-        {
-            printf(" ");
-        }
 
-        for(j=i; j<=5; j++)
-        {
-            printf("* ");
-        }
-        printf("\n");
-        sp--;
-    }
+// #include<stdio.h>
+// int main()
+// {
+//     int i,j,sp=4;
+//     for(i=5; i>=1; i--)
+//     {
+//         for(j=1; j<=sp; j++)
+//         {
+//             printf(" ");
+//         }
 
-    sp=1;
-    for(i=4; i>=1; i--)
-    {
-        for(j=1; j<=sp; j++)
-        {
-            printf(" ");
-        }
+//         for(j=i; j<=5; j++)
+//         {
+//             printf("* ");
+//         }
+//         printf("\n");
+//         sp--;
+//     }
 
-        for(j=1; j<=i; j++)
-        {
-            printf("* ");
-        }
-        printf("\n");
-        sp++;
-    }
+//     sp=1;
+//     for(i=4; i>=1; i--)
+//     {
+//         for(j=1; j<=sp; j++)
+//         {
+//             printf(" ");
+//         }
 
+//         for(j=1; j<=i; j++)
+//         {
+//             printf("* ");
+//         }
+//         printf("\n");
+//         sp++;
+//     }
 
-    return 0;
-}
+//     return 0;
+// }

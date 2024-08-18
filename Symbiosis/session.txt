@@ -34,3 +34,24 @@ The test settings are as follows:
 3. Split screen detection: Yes
 =========================================
 Group A,B,C,D for 2024-28
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Test Details: CA-1
+Test name: Preparation of C Language (MNC) - 22/08/2024							
+Date and time: 22/8/ 2024
+
+MCQ:
+Question Type: MCQ
+Question Count: 20 MCQ(0.5 Marks each)
+
+Group: 
+2024-28-CSE-A
+2024-28-CSE-B
+2024-28-CSE-C
+2024-28-CSE-D
+The test settings are as follows:
+1. Access on mobile: No
+2. End test on window change: Yes
+3. Split screen detection: Yes

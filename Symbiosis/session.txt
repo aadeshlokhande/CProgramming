@@ -55,3 +55,11 @@ The test settings are as follows:
 1. Access on mobile: No
 2. End test on window change: Yes
 3. Split screen detection: Yes
+
+
+======================================================
+
+
+
+
+

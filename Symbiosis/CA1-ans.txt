@@ -1,0 +1,62 @@
+1. What type of language is C?
+Answer: c) Middle-level
+
+2. Who developed the C programming language?
+Answer: c) Dennis Ritchie
+
+4. In which year was the C language developed?
+Answer: a) 1972
+
+7. Which of the following is true about an interpreter?
+Answer: a) Translates and executes source code line by line
+
+8. Which section of a C program contains the `#include` directive?
+Answer: b) Preprocessor section
+
+11. Which of the following is considered a white space in C?
+Answer: d) All of the above
+
+12. Which of the following is not a type of constant in C?
+Answer: c) Boolean constant
+
+17. What are tokens in C programming?
+Answer: a) Smallest individual units of a program
+
+20. Which of the following is not a keyword in C?
+Answer: c) main
+
+21. How many keywords are available in the ANSI C standard?
+Answer: a) 32
+
+26. Which of the following rules is incorrect for naming identifiers in C?
+Answer: c) Identifiers can be keywords.
+
+27. Which of the following is a valid identifier in C?
+Answer: b) variable_3
+
+31. What is the ASCII value of the character 'A'?
+Answer: a) 65
+
+35. Which of the following is a relational operator in C?
+Answer: c) ==
+
+36. Which of the following operators has the highest precedence in C?
+Answer: d) ()
+
+40. Which of the following is the correct syntax for an if-else statement in C?
+Answer: a) if (condition) { statement1; } else { statement2; }
+
+41. Which of the following is not a relational operator used in decision making?
+Answer: d) ||
+
+45. Which of the following is true about an if-else statement?
+Answer: d) The else block executes when the if condition is false
+
+48. What is the output of the following code: `int x = 5; if (x == 5) if (x > 3) printf("Yes"); else printf("No");`?
+Answer: a) Yes
+
+49. Which of the following statements is true for an if-else ladder?
+Answer: a) Multiple if-else conditions are checked in sequence
+
+50. Which keyword is used to exit a decision-making block immediately?
+Answer: b) break

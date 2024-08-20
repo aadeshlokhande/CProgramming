@@ -165,17 +165,17 @@
 // get rad from user and print area of circle
 
 
-#include<stdio.h>
-int main()
-{
-    int rad;
-    float area;
-    printf("Enter a rad = ");
-    scanf("%d",&rad);
-    area = 3.14 * rad * rad;
-    printf("area of circle = %f", area);
-    return 0;
-}
+// #include<stdio.h>
+// int main()
+// {
+//     int rad;
+//     float area;
+//     printf("Enter a rad = ");
+//     scanf("%d",&rad);
+//     area = 3.14 * rad * rad;
+//     printf("area of circle = %f", area);
+//     return 0;
+// }
 
 
 

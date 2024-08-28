@@ -1,0 +1,20 @@
+roll, name, age, result
+101, aman, 21
+102, bablu, 20
+103, chandu, 21
+
+
+
+{
+    student1 : {
+        roll : 101,
+        name : aman,
+        age : 21
+    },
+
+    student2 :{
+        adahrNum : 009234234
+        
+    }
+
+}

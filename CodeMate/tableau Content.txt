@@ -1,11 +1,13 @@
-Creating Visual Analytics with Interactive data visualization software Desktop – Shortcomings of Traditional Information Analysis, 
+Creating Visual Analytics with Interactive data visualization software Desktop – 
+Shortcomings of Traditional Information Analysis, 
 Business Case for visual analysis, 
 The Interactive data visualization software, 
 Software Ecosystem, 
 Introducing Interactive data visualization software Desktop Workspace
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Connecting Data – How to connect Data, 
+Connecting Data – 
+How to connect Data, 
 what are generated values, 
 Use of Data Connection and Data Extract, 
 Joining Database Table with Tableau, 
@@ -13,7 +15,8 @@ Blending different Data sources in single Worksheet,
 Data Quality Problem
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Building Visualisation – Fast and Easy Analysis via "Show me", 
+Building Visualisation – 
+Fast and Easy Analysis via "Show me", 
 how "Show Me" works, 
 Trendlines and Reference Lines, 
 Sorting Data in Interactive data visualization software, 
@@ -22,7 +25,8 @@ Sets,
 Groups and Hierarchies
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Creating Calculations to Enhance Data- Aggregation, 
+Creating Calculations to Enhance Data- 
+Aggregation, 
 Calculated Values and Table Calculations, 
 Using Calculation Dialogue box, 
 Binding Formulas using Table Calculations, 
@@ -31,7 +35,8 @@ Flexibility to Calculation Parameters,
 Function Reference appendix
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Bringing together with Dashboard – Dashboard as facilitator, 
+Bringing together with Dashboard – 
+Dashboard as facilitator, 
 Interactive data visualization software for improving Dashboard, 
 Right and Wrong Ways to build a Dashboards, 
 Best practices to build Dashboard, 

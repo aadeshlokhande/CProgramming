@@ -7,6 +7,4 @@
 // print c 
 // end 
 
-
-
- 
+// condition ? trueCode : falseCode;

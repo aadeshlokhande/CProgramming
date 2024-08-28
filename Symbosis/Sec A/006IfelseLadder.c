@@ -31,36 +31,36 @@
 // }
 
 
-#include<stdio.h>
-int main()
-{
-    int num;
-    printf("Enter a number = ");
-    scanf("%d",&num);
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("Enter a number = ");
+//     scanf("%d",&num);
 
-    if(num==1)
-    {
-        printf("ONE");
-    }
-    else if(num==2)
-    {
-        printf("TWO");
-    }
-    else if(num==3)
-    {
-        printf("THREE");
-    }
-    else if(num==4)
-    {
-        printf("FOUR");
-    }
-    else 
-    {
-        printf("invalid number");
-    }
+//     if(num==1)
+//     {
+//         printf("ONE");
+//     }
+//     else if(num==2)
+//     {
+//         printf("TWO");
+//     }
+//     else if(num==3)
+//     {
+//         printf("THREE");
+//     }
+//     else if(num==4)
+//     {
+//         printf("FOUR");
+//     }
+//     else 
+//     {
+//         printf("invalid number");
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
 
 // #################################################
 // #################### HOMEWORK ###################

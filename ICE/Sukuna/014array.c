@@ -13,7 +13,7 @@
 //     a[4] = 90;
 //     khushi = a[2];
 
-//     printf("%d",a[2]);
+//     printf("%d\n",a[2]);
 //     printf("%d Rs\n",khushi);
 //     return 0;
 // }
@@ -84,6 +84,3 @@
 // get 10 values from user and print all off numbers
 // get 10 values form user and print total avrg 
 // get 10 values and print greatest number
-
-
-

@@ -4,7 +4,7 @@ Visual analysis ke liye business case banane ka matlab hai ki aap dikhana chahte
 Visual analysis se data ko quickly samajhna aur interpret karna asaan hota hai. Jab complex data ko charts, graphs, aur dashboards mein dikhaya jaata hai, toh decision-makers jaldi aur effectively decisions le sakte hain. Yeh speed business operations ko improve kar sakti hai aur market opportunities ko jaldi capture karne mein madad karti hai.
 
 2. Improved Data Comprehension  
-Visuals ka use karne se complex data ko asani se samjha ja sakta hai. Yeh tarika data patterns, trends, aur outliers ko jaldi identify karne mein madad karta hai jo ki tabular ya textual data se asaan nahi hota. Yeh feature especially useful hota hai jab aapke paas diverse stakeholders ho jinko data samajhna mushkil hota hai.
+Visuals ka use karne se complex data ko asani se samjha ja sakta hai. Yeh tarika data patterns, trends, aur outliers ko jaldi identify karne mein madad karta hai jo ki tabular ya textual data se asaan nahi hota. Yeh feature specially useful hota hai jab aapke paas diverse stakeholders ho jinko data samajhna mushkil hota hai.
 
 3. Enhanced Communication and Collaboration  
 Visual tools data ko ek clear aur concise tarike se present karte hain jo ki team members, stakeholders, aur clients ke beech better communication aur collaboration ko promote karta hai. Yeh common understanding create karta hai jo ki project planning, strategy formulation, aur implementation ke liye zaroori hai.

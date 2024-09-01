@@ -85,23 +85,23 @@
 // get 10 values and print greatest number
 
 // get 10 values from user and print total sum 
-#include<stdio.h>
-int main()
-{
-    int arr[10] = {1,4,7,6,5,3,2,4,5,7};
-    int sum = 0;
-    // for(int i = 0; i<10; i++)
-    // {
-    //     printf("Enter a number = ");
-    //     scanf("%d",&arr[i]);
-    // }
+// #include<stdio.h>
+// int main()
+// {
+//     int arr[10] = {1,4,7,6,5,3,2,4,5,7};
+//     int sum = 0;
+//     // for(int i = 0; i<10; i++)
+//     // {
+//     //     printf("Enter a number = ");
+//     //     scanf("%d",&arr[i]);
+//     // }
 
 
-    for(int i = 0; i<10; i++)
-    {
-        sum += arr[i];
-    }
+//     for(int i = 0; i<10; i++)
+//     {
+//         sum += arr[i];
+//     }
     
-    printf("sum = %d\n",sum);
-    return 0;
-}
+//     printf("sum = %d\n",sum);
+//     return 0;
+// }

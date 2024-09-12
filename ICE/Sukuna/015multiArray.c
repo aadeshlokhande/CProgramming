@@ -26,7 +26,3 @@
 //     return 0;
 // }
 
-
-
-// example.com/nagpur/pawan-bhojnalaya/id1234/table4
-

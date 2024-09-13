@@ -1,2 +1,1 @@
-printf("Enter a size = ");
-    scanf("%d",&n);
+without arguments and without return

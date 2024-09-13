@@ -31,3 +31,35 @@
 // }
 
 
+// String ---> is the array of characters ---> %s = Format specifier
+// character ---> it is an alphabet ..
+
+// #include<stdio.h>
+// #include<string.h>
+// int main()
+// {
+//     char name[20];
+//     char lname[20];
+    
+    
+//     printf("Enter a name = ");
+//     scanf("%s",name);
+    
+//     printf("Enter a lname = ");
+//     scanf(" %s",lname);
+
+//     printf("name = %s \n",name);
+//     printf("lname = %s \n",lname);
+    
+//     return 0;
+    
+// }
+
+
+
+
+
+
+
+
+

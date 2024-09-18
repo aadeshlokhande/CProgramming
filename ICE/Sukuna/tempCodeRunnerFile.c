@@ -1,1 +1,0 @@
-without arguments and without return

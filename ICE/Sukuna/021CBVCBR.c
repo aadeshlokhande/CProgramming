@@ -15,24 +15,23 @@
 
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-#include<stdio.h>
-void swapNum(int *ptrA, int *ptrB)
-{
-    int temp;
-    temp = *ptrA;
-    *ptrA = *ptrB;
-    *ptrB = temp;
-}
+// #include<stdio.h>
+// void swapNum(int *ptrA, int *ptrB)
+// {
+//     int temp;
+//     temp = *ptrA;
+//     *ptrA = *ptrB;
+//     *ptrB = temp;
+// }
 
-int main()
-{
-    int a = 10 , b = 20;
-    printf("a = %d and b = %d\n",a,b);
-    swapNum(&a,&b);
-    printf("a = %d and b = %d\n",a+2,b+3);
-    
-    return 0;
-}
+// int main()
+// {
+//     int a = 10 , b = 20;
+//     printf("a = %d and b = %d\n",a,b);
+//     swapNum(&a,&b);
+//     printf("a = %d and b = %d\n",a+2,b+3);
+//     return 0;
+// }
 
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 

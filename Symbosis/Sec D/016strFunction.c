@@ -1,11 +1,11 @@
 // string Function
 
-#include<stdio.h>
-#include<string.h>
-int main()
-{
-    int a;
-    char str1[30] = "hello ASDASD asdasd";
+// #include<stdio.h>
+// #include<string.h>
+// int main()
+// {
+//     int a;
+//     char str1[30] = "hello ASDASD asdasd";
     // char str2[30] = " Mitro";
     // char str2[30];
     // a = strlen(str);
@@ -20,12 +20,12 @@ int main()
     // strcpy(str2, str1);
 
     // printf("%s",str2);
-    strupr(str1);
-    printf("%s",str1);
+//     strupr(str1);
+//     printf("%s",str1);
 
 
-    return 0;
-}
+//     return 0;
+// }
 
 
 // aadeshlokhande

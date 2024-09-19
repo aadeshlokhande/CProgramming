@@ -1,8 +1,8 @@
 // String 
 
-#include<stdio.h>
-int main()
-{
+// #include<stdio.h>
+// int main()
+// {
     // char a[20] = {'a','a','d','e','s','h','\0'};
     // char a[20] = "aadesh";
     // printf("%c",a[2]);
@@ -20,12 +20,12 @@ int main()
     // scanf("%s%s", name,lname);
     // printf("name = %s %s",name,lname);
 
-    char str[20];
+//     char str[20];
 
-    printf("Enter str = ");
-    gets(str);
-    printf("str = %s",str);
+//     printf("Enter str = ");
+//     gets(str);
+//     printf("str = %s",str);
 
-    return 0;
-}
+//     return 0;
+// }
 

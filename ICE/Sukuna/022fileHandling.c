@@ -58,3 +58,12 @@
 // }
 
 // OS ....> 
+
+// file ===> studentData.txt
+
+// roll, name, age
+// 101, aadesh, 78
+// 102, rohit, 21
+// .
+// .
+// .

@@ -1,3 +1,4 @@
+// linear search
 // int a[10] = {12,23,34,45,56,67,78,89,32,21};
 // num = 52;
 
@@ -24,6 +25,9 @@
 //     return 0;
 // }
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// bubble sort 
 
 // a = 10 
 // b = 20 
@@ -55,36 +59,36 @@
 // {10,20,30,40,50}
 
 
-#include <stdio.h>
-int main() 
-{
-    int arr[5] = {50,30,40,20,10};
-    int size = 5, temp;
+// #include <stdio.h>
+// int main() 
+// {
+//     int arr[5] = {50,30,40,20,10};
+//     int size = 5, temp;
 
-    for (int i = 0; i < size; i++) 
-    {
-        printf("%d, ", arr[i]);
-    }
-    printf("\n");
+//     for (int i = 0; i < size; i++) 
+//     {
+//         printf("%d, ", arr[i]);
+//     }
+//     printf("\n");
 
-    for (int i = 0; i < size-1; i++) 
-    {
-        for (int j = 0; j < size-1; j++) 
-        {
-            if (arr[j] > arr[j+1]) 
-            {
-                temp = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;
-            }
-        }
-    }
+//     for (int i = 0; i < size-1; i++) 
+//     {
+//         for (int j = 0; j < size-1; j++) 
+//         {
+//             if (arr[j] > arr[j+1]) 
+//             {
+//                 temp = arr[j];
+//                 arr[j] = arr[j+1];
+//                 arr[j+1] = temp;
+//             }
+//         }
+//     }
 
-    for(int i = 0; i < size; i++) 
-    {
-        printf("%d, ", arr[i]);
-    }
+//     for(int i = 0; i < size; i++) 
+//     {
+//         printf("%d, ", arr[i]);
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
 

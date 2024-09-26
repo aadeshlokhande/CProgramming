@@ -101,3 +101,30 @@
 // multi
 // div
 // area of circle
+
+
+
+
+// #include<stdio.h>
+
+// int add(int a , int b)
+// {
+//     int ans;
+//     ans = a + b;
+//     return ans;
+// }
+
+// int main()
+// {
+//     int abc,num1, num2;
+//     printf("Enter a number = ");
+//     scanf("%d",&num1);
+//     printf("Enter a number = ");
+//     scanf("%d",&num2);    
+
+//     abc = add(num1,num2);
+//     printf("ans = %d",abc);
+//     return 0;
+// }
+
+

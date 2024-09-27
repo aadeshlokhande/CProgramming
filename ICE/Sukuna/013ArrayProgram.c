@@ -49,31 +49,31 @@
 
 
 
-#include<stdio.h>
-int main()
-{
-    int a[5] = {40,30,50,20,10};
-    int temp;
-    for(int i = 0;i<5; i++)
-    {
-        printf("%d, ",a[i]);
-    }
-    printf("\n");
-    for(int i = 0; i<5; i++)
-    {
-        for(int j = 0; j<5; j++)
-        {
-            if(a[j]>a[j+1])
-            {
-                temp = a[j];
-                a[j] = a[j+1];
-                a[j+1] = temp;
-            }
-        }
-    }
-    for(int i = 0;i<5; i++)
-    {
-        printf("%d, ",a[i]);
-    }
-    return 0;
-}
+// #include<stdio.h>
+// int main()
+// {
+//     int a[5] = {40,30,50,20,10};
+//     int temp;
+//     for(int i = 0;i<5; i++)
+//     {
+//         printf("%d, ",a[i]);
+//     }
+//     printf("\n");
+//     for(int i = 0; i<5; i++)
+//     {
+//         for(int j = 0; j<5; j++)
+//         {
+//             if(a[j]>a[j+1])
+//             {
+//                 temp = a[j];
+//                 a[j] = a[j+1];
+//                 a[j+1] = temp;
+//             }
+//         }
+//     }
+//     for(int i = 0;i<5; i++)
+//     {
+//         printf("%d, ",a[i]);
+//     }
+//     return 0;
+// }

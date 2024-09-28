@@ -36,3 +36,14 @@ pdf--->
         "PAN" : jkahds87432
     }
 }
+
+roll, name, age, gender, marks
+101, sayali, 22, F, 70
+102, shivani, 23, F, 72
+103, prajwal, 22, M, 78
+104, aman, 23, M , 84
+
+
+
+num of students = 4 
+avrgMark = 75

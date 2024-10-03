@@ -5,25 +5,25 @@
 // index = 4 
 // index = -1 
 
-// #include<stdio.h>
-// int main()
-// {
-//     int a[10] = {12,23,34,45,56,67,78,89,56,21};
-//     int num, index = -1;
+#include<stdio.h>
+int main()
+{
+    int a[10] = {12,23,34,45,56,67,78,89,56,21};
+    int num, index = -1;
 
-//     printf("Enter a number = ");
-//     scanf("%d",&num);
-//     for(int i = 0; i<10; i++)
-//     {
-//         if(a[i]==num)
-//         {
-//             index = i;
-//             break;
-//         }
-//     }
-//     printf("index = %d",index);
-//     return 0;
-// }
+    printf("Enter a number = ");
+    scanf("%d",&num);
+    for(int i = 0; i<10; i++)
+    {
+        if(a[i]==num)
+        {
+            index = i;
+            break;
+        }
+    }
+    printf("index = %d",index);
+    return 0;
+}
 
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 

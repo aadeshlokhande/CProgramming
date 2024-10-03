@@ -52,38 +52,37 @@
 
 // a[5] = {10,20,30,40,50}
 
-#include <stdio.h>
-int main() 
-{
-    int arr[5] = {30,20,50,10,40};
-    int size = 5, temp;
+// #include <stdio.h>
+// int main() 
+// {
+//     int arr[5] = {30,20,50,10,40};
+//     int size = 5, temp;
 
-    for (int i = 0; i < size; i++) 
-    {
-        printf("%d, ", arr[i]);
-    }
-    printf("\n");
+//     for (int i = 0; i < size; i++) 
+//     {
+//         printf("%d, ", arr[i]);
+//     }
+//     printf("\n");
 
-    for (int i = 0; i < size-1; i++) 
-    {
-        for (int j = 0; j < size-1; j++) 
-        {
-            if (arr[j] > arr[j+1]) 
-            {
-                temp = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;
-            }
-        }
-    }
+//     for (int i = 0; i < size-1; i++) 
+//     {
+//         for (int j = 0; j < size-1; j++) 
+//         {
+//             if (arr[j] > arr[j+1]) 
+//             {
+//                 temp = arr[j];
+//                 arr[j] = arr[j+1];
+//                 arr[j+1] = temp;
+//             }
+//         }
+//     }
 
-    for(int i = 0; i < size; i++) 
-    {
-        printf("%d ", arr[i]);
-    }
-
-    return 0;
-}
+//     for(int i = 0; i < size; i++) 
+//     {
+//         printf("%d ", arr[i]);
+//     }
+//     return 0;
+// }
 
 
 

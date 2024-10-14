@@ -1,45 +1,45 @@
-Basic fundamentals,
-installation and use of software,
-data editing,
-functions and assignments,
-Use of R as a calculator,
-functions and matrix operations,
+Basic fundamentals
+installation and use of software
+data editing
+functions and assignments
+Use of R as a calculator
+functions and matrix operations
 missing data and logical operators.
 
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-Conditional executions and loops,
-data management with sequences,
-Data management with repeats,
-sorting,
-ordering,
+Conditional executions and loops
+data management with sequences
+Data management with repeats
+sorting
+ordering
 and lists.
 
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-Data management with repeats,
-sorting,
-ordering,
-and lists,
-Vector indexing,
-factors,
-Data management with strings,
+Data management with repeats
+sorting
+ordering
+and lists
+Vector indexing
+factors
+Data management with strings
 display and formatting
 
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-Data management with display paste,
-split,
-find and replacement,
-manipulations with alphabets,
-evaluation of strings,
-Data frames,
-import of external data in various file formats,
-statistical functions,
+Data management with display paste
+split
+find and replacement
+manipulations with alphabets
+evaluation of strings
+Data frames
+import of external data in various file formats
+statistical functions
 compilation of data.
 
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-Graphics and plots,
-statistical functions for central tendency,
-variation,
-skewness and kurtosis,
-handling of bivarite data through graphics,
-correlations,
-programming and illustration with examples,
+Graphics and plots
+statistical functions for central tendency
+variation
+skewness and kurtosis
+handling of bivarite data through graphics
+correlations
+programming and illustration with examples

@@ -17,7 +17,6 @@
 // a==0 ====> yes / no 
 
 
-
 #include<stdio.h>
 #include<string.h>
 int main()

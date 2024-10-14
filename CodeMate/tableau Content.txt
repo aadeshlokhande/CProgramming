@@ -1,46 +1,50 @@
-Creating Visual Analytics with Interactive data visualization software Desktop – 
-Shortcomings of Traditional Information Analysis, 
-Business Case for visual analysis, 
-The Interactive data visualization software, 
-Software Ecosystem, 
-Introducing Interactive data visualization software Desktop Workspace
+Unit 1
+A) Creating Visual Analytics with Interactive data visualization software Desktop – 
+1) Shortcomings of Traditional Information Analysis in tableau
+2) Business Case for visual analysis in tableau
+3) The Interactive data visualization software in tableau
+4) Software Ecosystem in tableau
+5) Introducing Interactive data visualization software Desktop Workspace
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Connecting Data – 
-How to connect Data, 
-what are generated values, 
-Use of Data Connection and Data Extract, 
-Joining Database Table with Tableau, 
-Blending different Data sources in single Worksheet, 
-Data Quality Problem
+Unit 2 - Connecting Data
+1) How to connect Data in tableau
+2) what are generated values in tableau
+3) Use of Data Connection and Data Extract in tableau
+4) Joining Database Table with Tableau in tableau
+5) Blending different Data sources in single Worksheet in tableau
+6) Data Quality Problem
+
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Building Visualisation – 
-Fast and Easy Analysis via "Show me", 
-how "Show Me" works, 
-Trendlines and Reference Lines, 
-Sorting Data in Interactive data visualization software, 
-Enhancing views with Filters, 
-Sets, 
-Groups and Hierarchies
+Unit 3 - Building Visualisation
+1) Fast and Easy Analysis via "Show me" in tableau
+2) how "Show Me" works in tableau
+3) Trendlines and Reference Lines in tableau 
+4) Sorting Data in Interactive data visualization software in tableau
+5) Enhancing views with Filters in tableau
+6) Sets in tableau
+7) Groups and Hierarchies
+
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Creating Calculations to Enhance Data- 
-Aggregation, 
-Calculated Values and Table Calculations, 
-Using Calculation Dialogue box, 
-Binding Formulas using Table Calculations, 
-Table Calculation Functions, 
-Flexibility to Calculation Parameters, 
-Function Reference appendix
+Unit 4 - Creating Calculations to Enhance Data
+1) Aggregation in tableau
+2) Calculated Values and Table Calculations in tableau
+3) Using Calculation Dialogue box in tableau
+4) Binding Formulas using Table Calculations in tableau
+5) Table Calculation Functions in tableau
+6) Flexibility to Calculation Parameters in tableau
+7) Function Reference appendix
+
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
-Bringing together with Dashboard – 
-Dashboard as facilitator, 
-Interactive data visualization software for improving Dashboard, 
-Right and Wrong Ways to build a Dashboards, 
-Best practices to build Dashboard, 
-Building advanced Dashboard, 
-Sharing Dashboard with Interactive data visualization software Reader and Server, 
-Designing Mobile Consumption, 
-Interactive data visualization software and Load Speed
+Unit 5 - Bringing together with Dashboard
+1) Dashboard as facilitator in tableau
+2) Interactive data visualization software for improving Dashboard in tableau
+3) Right and Wrong Ways to build a Dashboards in tableau
+4) Best practices to build Dashboard in tableau
+5) Building advanced Dashboard in tableau
+6) Sharing Dashboard with Interactive data visualization software Reader and Server in tableau
+7) Designing Mobile Consumption in tableau
+8) Interactive data visualization software and Load Speed

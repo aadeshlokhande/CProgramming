@@ -41,5 +41,5 @@ statistical functions for central tendency in R Programming
 variation in R Programming
 skewness and kurtosis in R Programming
 handling of bivarite data through graphics in R Programming
-correlations in R Programming
+correlations in R Programming 
 programming and illustration with examples in R Programming

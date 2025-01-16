@@ -1,0 +1,225 @@
+Keywords
+C language has 32 reserved keywords. They are:
+
+1. auto
+2. break
+3. case
+4. char
+5. const
+6. continue
+7. default
+8. do
+9. double
+10. else
+11. enum
+12. extern
+13. float
+14. for
+15. goto
+16. if
+17. int
+18. long
+19. register
+20. return
+21. short
+22. signed
+23. sizeof
+24. static
+25. struct
+26. switch
+27. typedef
+28. union
+29. unsigned
+30. void
+31. volatile
+32. while
+
+Data Types
+Basic data types in C include:
+
+1. int
+2. char
+3. float
+4. double
+
+Derived Data Types
+Derived data types in C include:
+
+1. arrays
+2. pointers
+3. structures
+4. unions
+
+Qualifiers
+
+1. short
+2. long
+3. signed
+4. unsigned
+5. const
+6. volatile
+
+Operators
+Operators in C include:
+
+Arithmetic Operators
+1. + (Addition)
+2. - (Subtraction)
+3. * (Multiplication)
+4. / (Division)
+5. % (Modulus)
+
+Relational Operators
+1. == (Equal to)
+2. != (Not equal to)
+3. > (Greater than)
+4. < (Less than)
+5. >= (Greater than or equal to)
+6. <= (Less than or equal to)
+
+Logical Operators
+1. && (Logical AND)
+2. || (Logical OR)
+3. ! (Logical NOT)
+
+Bitwise Operators
+1. & (Bitwise AND)
+2. | (Bitwise OR)
+3. ^ (Bitwise XOR)
+4. ~ (Bitwise NOT)
+5. << (Left shift)
+6. >> (Right shift)
+
+Assignment Operators
+1. = (Assignment)
+2. += (Add and assign)
+3. -= (Subtract and assign)
+4. *= (Multiply and assign)
+5. /= (Divide and assign)
+6. %= (Modulus and assign)
+7. <<= (Left shift and assign)
+8. >>= (Right shift and assign)
+9. &= (Bitwise AND and assign)
+10. ^= (Bitwise XOR and assign)
+11. |= (Bitwise OR and assign)
+
+Miscellaneous Operators
+1. sizeof (Size of an object)
+2. & (Address of)
+3. * (Pointer dereference)
+4. ?: (Ternary conditional)
+5. , (Comma)
+6. -> (Structure dereference)
+7. . (Structure member)
+8. () (Function call)
+9. [] (Array subscript)
+
+Preprocessor Directives
+Preprocessor directives in C include:
+
+1. #include (Include header file)
+2. #define (Define a macro)
+3. #undef (Undefine a macro)
+4. #if (Test if a condition is true)
+5. #ifdef (Test if a macro is defined)
+6. #ifndef (Test if a macro is not defined)
+7. #else (Else for #if)
+8. #elif (Else if for #if)
+9. #endif (End preprocessor conditional)
+10. #error (Print error message)
+11. #pragma (Special commands to compiler)
+
+Standard Library Functions
+Standard C library functions include:
+
+Input/Output
+1. printf()
+2. scanf()
+3. fprintf()
+4. fscanf()
+5. sprintf()
+6. sscanf()
+7. getc()
+8. getchar()
+9. gets()
+10. putc()
+11. putchar()
+12. puts()
+13. fopen()
+14. fclose()
+15. fread()
+16. fwrite()
+17. fseek()
+18. ftell()
+19. rewind()
+20. fflush()
+
+String Handling
+1. strcpy()
+2. strncpy()
+3. strcat()
+4. strncat()
+5. strcmp()
+6. strncmp()
+7. strchr()
+8. strrchr()
+9. strstr()
+10. strlen()
+11. strspn()
+12. strcspn()
+13. strpbrk()
+14. strtok()
+
+Memory Management
+1. malloc()
+2. calloc()
+3. realloc()
+4. free()
+
+Mathematical Functions
+1. abs()
+2. acos()
+3. asin()
+4. atan()
+5. atan2()
+6. ceil()
+7. cos()
+8. cosh()
+9. exp()
+10. fabs()
+11. floor()
+12. fmod()
+13. frexp()
+14. ldexp()
+15. log()
+16. log10()
+17. modf()
+18. pow()
+19. sin()
+20. sinh()
+21. sqrt()
+22. tan()
+23. tanh()
+
+Utility Functions
+1. exit()
+2. getenv()
+3. system()
+4. atexit()
+5. bsearch()
+6. qsort()
+7. abs()
+8. labs()
+9. div()
+10. ldiv()
+
+Date and Time
+1. time()
+2. difftime()
+3. mktime()
+4. strftime()
+5. gmtime()
+6. localtime()
+7. asctime()
+8. ctime()
+

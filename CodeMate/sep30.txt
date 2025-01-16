@@ -1,0 +1,13 @@
+
+StudentId,roll, name, age, gender, marks, statusCode
+1001, BA-101, sayali, 22, F, 70,
+1002, BA-102, shivani, 23, F, 72,
+1003, BA-103, prajwal, 22, M, 78, 0
+1004, BA-104, aman, 23, M , 84,
+
+StudentId, name, age, gender, marks, statusCode
+1001, sayali, 22, F, 70, 1
+1003, prajwal, 22, M, 78, 0
+
+
+

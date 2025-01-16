@@ -1,0 +1,45 @@
+Basic fundamentals of R Programming
+installation and use of software of R Programming
+data editing in R Programming
+functions and assignments in R Programming
+Use of R Programming as a calculator 
+functions and matrix operations in R Programming
+missing data and logical operators in R Programming
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Conditional executions and loops in R Programming
+data management with sequences in R Programming
+Data management with repeats in R Programming
+sorting in R Programming
+ordering in R Programming
+lists in R Programming
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Data management with repeats in R Programming
+sorting in R Programming
+ordering in R Programming
+lists in R Programming
+Vector indexing in R Programming
+factors in R Programming
+Data management with strings in R Programming
+display and formatting in R Programming
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Data management with display paste in R Programming
+split in R Programming
+find and replacement in R Programming
+manipulations with alphabets in R Programming
+evaluation of strings in R Programming
+Data frames in R Programming
+import of external data in various file formats in R Programming
+statistical functions in R Programming
+compilation of data in R Programming
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Graphics and plots in R Programming
+statistical functions for central tendency in R Programming
+variation in R Programming
+skewness and kurtosis in R Programming
+handling of bivarite data through graphics in R Programming
+correlations in R Programming 
+programming and illustration with examples in R Programming

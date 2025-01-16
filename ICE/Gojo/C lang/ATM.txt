@@ -1,0 +1,33 @@
+ATM 
+
+pin = 1234
+bal = 12000
+
+press 1 : withdraw
+    enter a pin = 1234
+        enter a amount =  2000
+            transaction done
+            current balance = 10000
+        low balance
+    wrong pin 
+
+press 2 : check balance
+    enter a pin = 1234
+        current balance = 10000
+    wrong pin 
+
+press 3 : change pin 
+    enter a pin = 1234
+        enter a new pin = 1122
+        confirm your pin = 1122
+            pin changed;
+        pin doesn't match
+    wrong pin 
+
+press 4 : deposite 
+    enter a pin = 1122
+        enter amount = 1200
+            transaction done
+            current balance = 13200
+    wrong pin 
+

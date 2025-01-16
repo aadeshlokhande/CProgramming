@@ -1,0 +1,49 @@
+roll, name, age, gender 
+101, sayali, 22, F,
+102, shivani, 23, F,
+103, prajwal, 22, M,
+104, aman, 23, M ,
+
+f - 66.66%
+m - 33.33%
+
+
+f - 50.00%
+m - 50.00%
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+excel--->
+csv ----> 
+database/ server ---> 
+
+pdf---> 
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+{
+    101 : {
+        "name" : "sayali",
+        "age" : 21,
+        "gender" : "Female"
+        "contact" : {
+            "airtel" : 92873498732,
+            "jio" : 74827648234
+        }
+    },
+    102 : {
+        "name" : "prajwal",
+        "adhar" : 937849237,
+        "PAN" : jkahds87432
+    }
+}
+
+roll, name, age, gender, marks
+101, sayali, 22, F, 70
+102, shivani, 23, F, 72
+103, prajwal, 22, M, 78
+104, aman, 23, M , 84
+
+
+
+num of students = 4 
+avrgMark = 75

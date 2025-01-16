@@ -1,0 +1,101 @@
+﻿Write a short note on pseudo-code.
+
+What is Pseudo Code? Write Pseudo code for the addition of two numbers.
+
+What is an algorithm? Write an algorithm to find the smallest of three numbers.
+
+Explain the arithmetic and relational operators in C.
+
+What is looping? Explain "while loop" in detail with syntax and examples.
+
+Explain "Nested for loop” with example.
+
+Explain for loop and while loop with syntax and examples.
+
+Write a program in 'C' to print numbers from 1 to N using a while loop.
+
+What do you mean by branching statements? Explain else....if ladder with syntax and example.
+
+Give the purpose, syntax and example of the switch statement.
+
+Write and explain a program in 'C' to print a half pyramid using the alphabet as given below :
+    A
+    A B 
+    A B C
+    A B C D 
+    A B C D E
+
+What is array? Write a program to find the maximum element of an array.
+
+Define Array. Write a program to search an element in the given array of size n.
+
+Write a program to find the sum of rows and columns in two-dimensional array of size 3 × 3.
+
+Write a program in C to find the largest number from one-dimensional array.
+
+Write a program to sort the elements of a one-dimensional Array using Bubble's sort method.
+
+Write any five string manipulation functions the 'C' language provides. Explain with a suitable example.
+
+Write a program for the addition of two matrices.
+
+Write a program to check the given symmetric matrix or not.
+
+write a program to transpose the given matrix.
+
+Explain the following string functions with an example
+    (i) strlen()
+    (ii) strcat()
+    (iii) strcpy()
+    (iv) strcmp()
+    (v) strrev()
+
+Describe the various components of a user-defined function.
+
+What is function? What are different ways to give a call to function?
+
+Explain arguments and parameters.
+
+Explain function definition and declaration.
+
+parameter passing mechanisms: call by value and call by reference
+
+What is recursion? explain with an example.
+
+Write a program to find the factorial of a number using recursion.
+
+write a program to print a table of a given number using recursion.
+
+Write a program in 'C' to illustrate function with :
+    a) with argument and without return value
+    b) without argument and with return value
+
+write a short note on:
+    a) local variables
+    b) global variables 
+
+What is a structure in C, and how is it defined?
+
+How is a union different from a structure in C?
+
+How do you declare and initialize a structure in C? Give an example.
+
+What are the memory allocation differences between a structure and a union?
+
+What are some use cases where you would prefer a union over a structure?
+
+How do you define and access a union in C?
+
+What are the limitations of using a union in C?
+
+What is a Pointer? Explain the pointer with an example.
+
+Write a syntax to declare pointers. Explain * and & pointer operators with examples.
+
+What is a pointer? Explain pointer to pointer with an example.
+
+Write a program in C to input 10 numbers and find their sum using a pointer.
+
+write a program to swap 2 values using a function using call by reference.
+
+Explain how call by reference works with examples.

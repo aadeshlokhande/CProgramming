@@ -1,0 +1,14 @@
+BA-I (Tableau)
+
+Q1. What are the different data quality issues that can arise during data visualization?
+Q2. how can we use Interactive data Visualization software for improving the Dashboard?
+Q3. What are Aggregation in tableau? explain all Aggregation functions with example.
+Q4. write an overview of the process of Connecting and Blending data with in Tableau.
+
+BA-III (R Programming)
+
+Q1. Create a numeric vector, matrix, and data frame in R. Perform operations like finding length, sum, and mean.
+Q2. Write a script to import a CSV file and use `dplyr` to filter rows, select columns, and arrange the data.
+Q3. Create a bar chart using `ggplot2` and customize its colors and labels. Explain how to create and use factor variables in R.
+Q4. Write an `if-else` script to check if a number is positive, negative, or zero. Perform linear regression on a dataset and explain the results.
+Q5. Load and plot a time series dataset. Calculate the mean, median, and variance for a numerical dataset.

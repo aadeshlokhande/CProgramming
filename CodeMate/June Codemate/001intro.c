@@ -13,3 +13,9 @@
 //  x 10000000000000
 
 
+#include<stdio.h>
+int main()
+{
+    printf("hello");
+    return 0;
+}

@@ -237,3 +237,23 @@
 
 
 // 0x5345b23c43a ----> age
+
+
+
+// #################################################
+// #################### HOMEWORK ###################
+// #################################################
+
+// get value from user anmaid check value is positive or negative
+// get value from user and check value is even or odd 
+// get year from user and check year is leap year or not
+// get 3 angles from user and check its triangle or not 
+// get value from user and check its 2 digit value or not
+
+// get value from user and print month name
+// get value from user and print weekdays
+// get percentage from user and print grades 
+// get value from user and print number of digit upto 7 digit
+
+// get 3 numbers from user and print greatest number using nested if else
+

@@ -80,3 +80,23 @@
 
 
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// abc.txt
+// #include<stdio.h>
+// int main()
+// {
+    // FILE *file;
+    // file = fopen("abc.txt", "w");
+    // fprintf(file, "mai ek coder hu");
+    // fclose(file);
+
+//     FILE *file;
+//     char str[100];
+//     file = fopen("abc.txt", "r");
+//     fscanf(file, "%[^\n]s",str );
+//     printf("data = %s",str);
+
+
+//     return 0;
+// }

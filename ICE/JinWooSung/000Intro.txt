@@ -1,0 +1,21 @@
+C ---->  
+Language
+
+binary Language
+
+high voltage ----> 1
+low voltage -----> 0
+
+daksh ---> 1010010101010110110111010111
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+translator
+
+compiler ---> 
+interpreter
+
+
+tamater
+aalu 
+bhindi
+baigan

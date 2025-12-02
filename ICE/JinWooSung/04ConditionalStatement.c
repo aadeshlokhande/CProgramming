@@ -392,6 +392,16 @@
 // }
 
 
+
+// #################################################
+// #################### HOMEWORK ###################
+// #################################################
+
+// get 3 numbers and from user and print greatest value using nested if else
+
+
+
+
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 // **************** Switch Case ****************
 
@@ -411,35 +421,46 @@
 
 // }
 
-#include<stdio.h>
-int main()
-{
-    int num;
-    printf("Enter a number = ");
-    scanf("%d",&num);
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("Enter a number = ");
+//     scanf("%d",&num);
 
-    switch(num)
-    {
+//     switch(num)
+//     {
         
-        case 1:
-        printf("one\n");
-        break;
+//         case 1:
+//         printf("one\n");
+//         break;
         
-        case 2:
-        printf("two\n");
-        break;
+//         case 2:
+//         printf("two\n");
+//         break;
         
-        case 3:
-        printf("Three\n");
-        break;
+//         case 3:
+//         printf("Three\n");
+//         break;
         
-        case 4:
-        printf("Four\n");
-        break;
+//         case 4:
+//         printf("Four\n");
+//         break;
         
-        default:
-            printf("invalid number...");
-            break;
-    }
-    return 0;
-}
+//         default:
+//             printf("invalid number...");
+//             break;
+//     }
+//     return 0;
+// }
+
+// #################################################
+// #################### HOMEWORK ###################
+// #################################################
+
+// get value from user and print month name 
+
+// get value from user and print week days (1-7)
+
+// get value from user and print week day for anynumber
+// 1234 ---> 

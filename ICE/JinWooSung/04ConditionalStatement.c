@@ -191,6 +191,82 @@
 // #################################################
 
 
+// 1. Check Positive Number
+// Ek number input lo aur check karo ki number positive hai ya nahi, `if` use karke.
+// Agar number > 0 hai to print “Positive”.
+
+// 2. Check Even Number
+// Ek number input lo aur check karo ki wo even hai ya nahi `if` condition se.
+// Agar number % 2 == 0 hai to print “Even”.
+
+// 3. Age Validation
+// User ki age input lo aur check karo ki age 18 se badi hai ya nahi `if else` se.
+// 18+ eligible, otherwise not eligible.
+
+// 4. Maximum of Two Numbers
+// Do number input lo aur bada number print karo `if else` use karke.
+// Compare using if(a > b).
+
+// 5. Check Odd Number
+// Check karo ki number odd hai ya nahi.
+// Agar number % 2 != 0 hai to odd.
+
+// 6. Check Voting Eligibility
+// Age input lo aur print karo ki vote de sakte ho ya nahi.
+// 18+ yes, else no.
+
+// 7. Check Student Pass or Fail
+// Marks input lo aur check karo ki 33 se upar hai to pass warna fail.
+// Use if else.
+
+// 8. Temperature Conditions
+// Temperature input lo. Agar > 30 hot, agar > 20 warm, warna cold (if else ladder).
+// Print category.
+
+// 9. Maximum of Three Numbers
+// 3 numbers input lo aur bada number print karo `if else ladder`.
+// Compare values carefully.
+
+// 10. Check Leap Year
+// Ek year input lo aur check karo ki leap year hai ya nahi.
+// Year % 4 == 0 use karo.
+
+// 11. Character Vowel or Consonant
+// Character input lo aur check karo vowel ya consonant.
+// a,e,i,o,u check using if else.
+
+// 12. Check Divisible by 5
+// Number input lo aur check karo divisible by 5.
+// number % 5 == 0.
+
+// 13. Grade System
+// Marks input lo aur grade print karo A,B,C,D,E using `if else ladder`.
+// Example: 90+ A, 80+ B, etc.
+
+// 14. Smallest of Two Numbers
+// 2 numbers input lo aur chhota number print karo.
+// Use if else.
+
+// 15. Positive Negative or Zero
+// Number input lo aur print karo positive, negative ya zero.
+// Use if else ladder.
+
+// 16. Check Multiple of 10
+// Check karo number multiple of 10 hai ya nahi.
+// number % 10 == 0.
+
+// 18. Check Eligibility for Scholarship
+// Marks >= 85 to eligible else not eligible.
+// Use if else.
+
+// 19. Check 2-digit number
+// Check karo number 2 digit ka hai ya nahi.
+// number >= 10 && number <= 99.
+
+// 20. Check Electricity Bill Category
+// Units input lo: >300 high, >200 medium, ≤200 low.
+// Use if else ladder.
+
 
 
 

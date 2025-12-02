@@ -1,0 +1,7 @@
+cd ..
+cd ..
+git status
+git add .
+git commit -m "C Language"
+git push -u origin main
+

@@ -268,10 +268,178 @@
 // Use if else ladder.
 
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+// **************** Nested If Else **************** 
 
 
+// if(condition)
+// {
+//     code; ---->
+//     if(condition)
+//     {
+//         code; ---->
+//     }
+//     else 
+//     {
+//         code;
+//     }
 
+// }
+// else 
+// {
+//     code;
+//     if(condition)
+//     {
+//         code;
+//     }
+//     else 
+//     {
+//         code;
+//     }
+
+// }
+
+// 0-100 ---> human life span 
+
+// #include<stdio.h>
+// int main()
+// {
+//     int age;
+//     printf("Enter a age = ");
+//     scanf("%d",&age);
+
+//     if (0<=age && age<=100)
+//     {
+//         if(age>=18)
+//         {
+//             printf("You can drive");
+//         }
+//         else
+//         {
+//             printf("you can't drive");
+//         }
+//     }
+//     else 
+//     {
+//         printf("invalid age...");
+//     }
+    
+
+//     return 0;
+// }
 
 
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-// nested if else 
+
+
+// if(condition)
+// {
+//     if(condition)
+//     {
+//         if(condition)
+//         {
+//         }
+//         else 
+//         {
+//         }
+//     }
+//     else 
+//     {
+//     }
+// }
+// else 
+// {
+// }
+
+// goa trip
+// budget >= 10000
+// fds >= 5
+// permission == 1
+
+// #include<stdio.h>
+// int main()
+// {
+//     int budget, fds, permission;
+//     printf("Enter a budget = ");
+//     scanf("%d",&budget);
+//     if(budget>=10000)
+//     {
+//         printf("how many fds you are = ");
+//         scanf("%d",&fds);
+//         if(fds>=5)
+//         {
+//             printf("abba ne permission di hai ky (1/0) = ");
+//             scanf("%d",&permission);
+//             if(permission==1)
+//             {
+//                 printf("Aap goa ja sakte hai...");
+//             }
+//             else 
+//             {
+//                 printf("Aap goa nhi ja sakte...");
+//             }
+//         }
+//         else 
+//         {
+//             printf("aur kuch fds add kro.... ");
+//         }
+//     }
+//     else 
+//     {
+//         printf("Bhag ja bhikmange....");
+//     }
+//     return 0;
+// }
+
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+// **************** Switch Case ****************
+
+// switch(value/ exression)
+// {
+//     case value1:
+//         code 
+    
+//     case value2:
+//         code 
+    
+//     case value3:
+//         code
+    
+//     default:
+//         code 
+
+// }
+
+#include<stdio.h>
+int main()
+{
+    int num;
+    printf("Enter a number = ");
+    scanf("%d",&num);
+
+    switch(num)
+    {
+        
+        case 1:
+        printf("one\n");
+        break;
+        
+        case 2:
+        printf("two\n");
+        break;
+        
+        case 3:
+        printf("Three\n");
+        break;
+        
+        case 4:
+        printf("Four\n");
+        break;
+        
+        default:
+            printf("invalid number...");
+            break;
+    }
+    return 0;
+}

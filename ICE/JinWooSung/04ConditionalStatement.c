@@ -267,7 +267,6 @@
 // Units input lo: >300 high, >200 medium, ≤200 low.
 // Use if else ladder.
 
-
 // =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 // **************** Nested If Else **************** 
 
@@ -398,6 +397,51 @@
 // #################################################
 
 // get 3 numbers and from user and print greatest value using nested if else
+// a,b,c 
+// a<->b
+// a: a<->c --->   a
+// a: a<->c --->   c 
+// b: b<->c --->   b 
+// b: b<->c --->   c 
+
+
+#include<stdio.h>
+int main()
+{
+    int a,b,c;
+    printf("Enter a number = ");
+    scanf("%d",&a);
+    printf("Enter a number = ");
+    scanf("%d",&b);
+    printf("Enter a number = ");
+    scanf("%d",&c);
+
+    if(a>b)
+    {
+        if(a>c)
+        {
+            printf("%d is greater", a);
+        }
+        else 
+        {
+            printf("%d is greater", c);
+        }
+    }
+    else 
+    {
+        if(b>c)
+        {
+            printf("%d is greater", b);
+        }
+        else 
+        {
+            printf("%d is greater", c);
+        }
+    }
+
+    return 0;
+}
+
 
 
 
@@ -461,6 +505,42 @@
 // get value from user and print month name 
 
 // get value from user and print week days (1-7)
+// #include <stdio.h>
+// int main() 
+// {
+//     int day;
+//     printf("Enter a number (1-7): ");
+//     scanf("%d", &day);
+//     switch(day % 7) 
+//     {
+//         case 1: 
+//             printf("Monday\n"); 
+//             break;
+//         case 2: 
+//             printf("Tuesday\n"); 
+//             break;
+//         case 3: 
+//             printf("Wednesday\n"); 
+//             break;
+//         case 4: 
+//             printf("Thursday\n"); 
+//             break;
+//         case 5: 
+//             printf("Friday\n"); 
+//             break;
+//         case 6: 
+//             printf("Saturday\n"); 
+//             break;
+        
+//         default: 
+//             printf("Sunday\n"); 
+//             break;
+
+//     }
+//     return 0;
+// }
+
+
 
 // get value from user and print week day for anynumber
 // 1234 ---> 

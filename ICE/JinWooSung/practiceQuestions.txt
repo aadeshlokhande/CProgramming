@@ -1,0 +1,147 @@
+Q1. C program likho jo user se ek number le aur check kare ki wo positive hai, negative hai ya zero. if else ladder use karo.
+
+Q2. C program likho jo user se ek number le aur check kare ki wo even hai ya odd. if else use karo, bina %2==0 ke shortcut logic bhi try karo.
+
+Q3. C program likho jo teen numbers input le aur bataye sabse bada kaunsa hai. if else ladder use karo.
+
+Q4. C program likho jo user se marks (0–100) le aur grading system print kare:
+   * 90–100: A
+   * 80–89: B
+   * 70–79: C
+   * 60–69: D
+   * <60: Fail
+     if else ladder se banao.
+
+Q5. C program likho jo ek year input le aur check kare ki wo leap year hai ya nahi. nested if use karo (4 se divisible, 100 se, 400 se).
+
+Q6. C program likho jo user se age le aur print kare:
+   * age < 13 → Child
+   * 13–19 → Teenager
+   * 20–59 → Adult
+   * 60+ → Senior
+     if else ladder use karo.
+
+Q7. C program likho jo user se ek character le aur check kare ki wo vowel hai, consonant hai, digit hai ya special symbol. if else ladder + nested if use karo.
+
+Q8. C program likho jo user se 2 numbers aur ek operator (+, -, *, /) input le aur simple calculator banaye using if else (switch nahi use karna).
+
+Q9. C program likho jo 3 sides of triangle input le:
+   * agar valid triangle nahi hai → "Not a triangle"
+   * valid ho toh check karo:
+     * Equilateral
+     * Isosceles
+     * Scalene
+       nested if else use karo.
+
+Q10. C program likho jo ek character input le aur check kare:
+* uppercase letter
+* lowercase letter
+* digit
+* special character
+  if else ladder se banao.
+
+Q11. C program likho jo user se ek number (1–7) le aur day name print kare (1 → Monday, ...). if else ladder use karo.
+
+Q12. C program likho jo user se ek month number (1–12) le aur print kare month me kitne din hai (Feb ke liye 28/29 logic mat likho, sirf 28 likho). if else se banao.
+
+Q13. C program likho jo ek number input le aur check kare ki wo 2 aur 3 dono se divisible hai, ya sirf 2 se, ya sirf 3 se, ya kisi se nahi. if else ladder use karo.
+
+Q14. C program likho jo electricity bill calculate kare:
+* 0–100 units: 5 Rs/unit
+* 101–200 units: 7 Rs/unit
+* 201+ units: 10 Rs/unit
+  if else ladder use karke total bill print karo.
+
+Q15. C program likho jo salary input le aur bonus calculate kare:
+* salary < 10000 → 10% bonus
+* 10000–20000 → 7% bonus
+* > 20000 → 5% bonus
+  > if else use karo.
+
+Q16. C program likho jo ek student ke 5 subject marks input le, percentage nikaale aur:
+* > = 75 → Distinction
+* 60–74 → First class
+* 50–59 → Second class
+* 35–49 → Pass
+* <35 → Fail
+  if else ladder use karo.
+
+Q17. C program likho jo user se ek integer le aur check kare ki wo 3-digit number hai ya nahi (100–999). if else use karo.
+
+Q18. C program likho jo user se time (24-hour format) as hour (0–23) input le aur print kare:
+* 5–11 → "Good Morning"
+* 12–16 → "Good Afternoon"
+* 17–20 → "Good Evening"
+* 21–4 → "Good Night"
+  if else ladder use karo.
+
+Q19. C program likho jo user se ek number le aur check kare:
+* Positive even
+* Positive odd
+* Negative
+* Zero
+  nested if else use karo.
+
+Q20. C program likho jo user se ek year le aur decide kare:
+* age < 18 → "Not eligible for driving"
+* 18–60 → "Eligible for driving"
+* > 60 → "Need medical checkup for driving"
+  > if else ladder use karo.
+
+Q21. C program likho jo two numbers input le aur:
+* agar dono equal ho toh "Equal" print karo
+* agar first > second → "First is greater"
+* else → "Second is greater"
+  if else use karo.
+
+Q22. C program likho jo ek integer le aur check kare ki wo multiple of 5 and 11 hai ya nahi. if else se banao.
+
+Q23. C program likho jo ek percentage le aur print kare:
+* <35 → "Fail"
+* > =35 aur <50 → "Pass class"
+* > =50 aur <60 → "Second class"
+* > =60 aur <70 → "First class"
+* > =70 → "Distinction"
+  > if else ladder use karo.
+
+Q24. C program likho jo user se 3 angles le aur check kare:
+* agar sum 180 nahi → "Not a triangle"
+* agar sum 180 aur sab non-zero ho →
+  * sab equal → "Equiangular"
+  * koi 90° → "Right-angled"
+  * warna → "Scalene / Acute / Obtuse" (simple message de sakte ho)
+    nested if else use karo.
+
+Q25. C program likho jo ek character le aur check kare ki kya wo 'Y' ya 'N' hai.
+* Y/y → "You selected YES"
+* N/n → "You selected NO"
+* warna → "Invalid choice"
+  if else use karo.
+
+Q26. C program likho jo 3 numbers le aur check kare ki kya wo Pythagorean triplet banaate hain (a² + b² = c²). nested if else use karo.
+
+Q27. C program likho jo ek bill amount le aur discount calculate kare:
+* <1000 → No discount
+* 1000–5000 → 5% discount
+* 5001–10000 → 10% discount
+* > 10000 → 15% discount
+  > Net amount print karo. if else ladder use karo.
+
+Q28. C program likho jo user se roll number, name, 3 subject marks le aur:
+* total & percentage nikaale
+* agar koi bhi subject < 35 ho → "Fail"
+* sab >= 35 ho toh percentage ke hisaab se grade print karo (A/B/C etc.)
+  nested if else use karo.
+
+Q29. C program likho jo employee ke gender (M/F) aur age input le aur decide kare:
+* Female and age between 20–60 → "Eligible for job"
+* Male and age between 22–65 → "Eligible for job"
+* warna → "Not eligible"
+  nested if use karo.
+
+Q30. C program likho jo user se ek integer le aur check kare:
+* agar number 1–10 ke beech hai → "Within range 1–10"
+* agar 11–20 ke beech hai → "Within range 11–20"
+* agar 21–30 ke beech hai → "Within range 21–30"
+* warna → "Out of range"
+  if else ladder use karo.

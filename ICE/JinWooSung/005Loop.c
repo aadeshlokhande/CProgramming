@@ -137,3 +137,12 @@
 
 // Q20. Write a program to count number of even and odd digits in a number.
 // Ans: har digit check karo if digit %2 == 0 then even++, else odd++.
+
+
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// pending topics
+// nested for loop
+// while loop 
+// do while loop

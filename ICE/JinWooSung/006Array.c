@@ -17,8 +17,6 @@
 // datatype arrayName[size] = {values}
 // int age[5] = {12,23,54,76,98};
 
-
-
 // #include<stdio.h>
 // int main()
 // {
@@ -102,16 +100,88 @@
 // #################### HOMEWORK ###################
 // #################################################
 
-// min 
-// max 
-// mid 
-// avrg 
+// min  -----
+// max  -----
+// avrg  -----
 // total number of even number
 // count odd numbers 
 // count all age > 18 and print 
 // linear search
 
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// total sum?
+
+// #include<stdio.h>
+// int main()
+// {
+//     int nums[5] = {2,3,4,5,8};
+//     int totalsum = 0;
+//     for(int i=0; i<5; i++)
+//     {
+//         // totalsum = totalsum + nums[i]; 
+//         totalsum += nums[i]; 
+//     }
+//     printf("total Sum = %f\n", totalsum/5.0);
+//     return 0;
+// }
 
 
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+// #include<stdio.h>
+// int main()
+// {
+//     int numbers[10] = {10,20,50,30,60,40,30,20,80,44};
+//     int max = numbers[0];
+//     for(int i = 0; i<10; i++)
+//     {
+//         if(max < numbers[i])
+//         {
+//             max = numbers[i];
+//         }
+//     }
+//     printf("max value = %d\n",max);
+//     return 0;
+// }
+
+
+// total even numbers
+
+// #include<stdio.h>
+// int main()
+// {
+//     int numbers[10] = {12,23,43,65,45,34,54,65,45,34};
+//     int count = 0;
+
+//     for(int i = 0; i<10; i++)
+//     {
+//         if(numbers[i] % 2 == 0)
+//         {
+//             ++count;
+//         }
+//     }
+
+//     printf("total even numbers = %d\n",count);
+
+//     return 0;
+// }
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// #include <stdio.h>
+// int main()
+// {
+//     int age[10] = {1,2,13,4,15,62,7,28,92,10};
+//     int count = 0;
+//     for (int i=0; i<10; i++)
+//     {
+//         if(age[i] > 18)
+//         {
+//             count++;
+//         }
+//     }
+//     printf("The age is greater than 18 =  %d\n", count);
+//     return 0;
+// }

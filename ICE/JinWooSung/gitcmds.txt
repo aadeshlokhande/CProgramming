@@ -8,10 +8,9 @@ git push -u origin main
 
 
 
-loops ----
+loops ----> 
 for ---> 
 array ---> 
-
 
 nested for ---> 3 days --> 30+ homework
 while ---->
@@ -19,3 +18,23 @@ do while ---->
 
 
 
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+function 
+working 
+type of function 
+recursion
+call by value and call by referance
+
+pointer
+pointer to pointer 
+call by referance
+---> file handling 
+
+array 
+2d array
+
+string 
+function of string
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=

@@ -80,3 +80,43 @@
 // 2coin = 1 
 // 1coin = 1
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// a = 642
+// 6 4 2 
+
+// a = 0
+// a > 0
+//     b = a%10
+//     a = a / 10
+//     b%2!=0
+//         a = 1
+
+#include<stdio.h>
+int main()
+{
+    int sp = 100;
+    int ep = 150;
+    int lastDigit;
+    int flag;
+    for(int num= sp; num<=ep; num++)
+    {
+        flag = 0;
+        for(int i = 0; i<3; i++)
+            {
+                lastDigit = num % 10; // 2684 % 10 = 4
+                num = num / 10; // 2684 / 10 = 268
+                if(lastDigit%2 != 0)
+                {
+                    flag = 1;
+                }
+            }
+            if(flag == 0)
+            {
+                printf("%d\n",num);
+            }
+        printf("Bhula %d\n",num);
+    }
+
+    return 0;
+}

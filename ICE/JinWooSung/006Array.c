@@ -114,11 +114,38 @@
 //     int n = 6;
 //     int target = 40;
 
+//     int start = 0, end = n-1;
+//     int mid, found = 0;
+
+//     while(start<=end)
+//     {
+//         mid = (start + end)/2;
+//         if(arr[mid]==target)
+//         {
+//             found = 1;
+//             break;
+//         }
+//         else if (target< arr[mid])
+//         {
+//             end = mid -1;
+//         }
+//         else 
+//         {
+//             start = mid + 1;
+//         }
+//     }
+
+//     if (found==1)
+//     {
+//         printf("element found\nindex = %d",mid);
+//     }
+//     else 
+//     {
+//         printf("Element not found");
+//     }
+
 //     return 0;
 // }
-
-
-
 
 
 // #################################################

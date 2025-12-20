@@ -12,6 +12,8 @@
 // email 
 // mobile 
 
+
+
 // #include<stdio.h>
 // int main()
 // {
@@ -20,7 +22,7 @@
     
     // for(int i = 0; i<6; i++)
     // {
-    //     printf("%c -> ", arr[i]);
+    //     printf("%c\n", arr[i]);
     // }
     // printf("my name is %s.", arr);
 //     return 0;
@@ -61,4 +63,38 @@
 //     printf("My name is %s.",name);
 //     return 0;
 // }
- 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+// format specifier modification
+
+
+// %d ---> int  
+// #include<stdio.h>
+// int main()
+// {
+//     int a = 1050, b = 50;
+//     // printf("a = %d\n",a);
+//     printf("  '%-6d'\n",a);
+//     printf("+ '%-6d'\n",b);
+//     printf("-----------\n",b);
+//     printf("  %d",a+b);
+//     int a = 123;
+//     printf("'%-10d'",a);
+//     return 0;
+// }
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+// %f ---> float 
+
+// #include<stdio.h>
+// int main()
+// {
+//     float a = 12.789;
+
+//     printf("'%.2f'",a);
+//     return 0;
+// }
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+// %s ----> string
+

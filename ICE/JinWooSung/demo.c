@@ -53,4 +53,51 @@
 //     return 0;
 // }
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+
+// #include<stdio.h>
+// int totalSum(int arr[], int size)
+// {
+//     int ans = 0;
+//     for(int i = 0; i<size; i++)
+//     {
+//         ans += arr[i]; // 10, 30, 60,100
+//     }
+//     return ans;
+// }
+
+// int main()
+// {
+//     int ar[] = {10,20,30,40};
+//     int abc;
+//     abc = totalSum(ar, 4);
+//     printf("ans = %d",abc);
+//     return 0;
+// }
+
+
+
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+
+// #include<stdio.h>
+// int totalSum(int arr[], int size)
+// {
+//     int ans = 0;
+//     for(int i = 0; i<size; i++)
+//     {
+//         ans += arr[i]; // 10, 30, 60,100
+//     }
+//     return ans;
+// }
+
+// int main()
+// {
+//     int ar[] = {10,20,30,40};
+//     int abc;
+//     abc = totalSum(ar, 4);
+//     printf("ans = %d",abc);
+//     return 0;
+// }
 

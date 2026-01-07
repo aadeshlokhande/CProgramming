@@ -1,0 +1,4 @@
+code likhte ---> code editor --> notepad, subline text, vscode  
+code run krata ---> compiler ---> sourceforge --> mingw 
+
+turbo c++
